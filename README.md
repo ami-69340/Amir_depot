@@ -6,5 +6,3 @@ Module A
 Modification amir
 double modif
 triple modif
-
-ggg
